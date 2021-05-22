@@ -1,6 +1,6 @@
 
-Stellar Motion
-
+**Stellar Motion
+**
 Learn about the star by examining the light coming from it. Using Diffraction grating, split light into different wavelengths. Measure intensity of light at their individual wavelengths give the stars characteristic spectrums. 
 
 For most stars the intensity is low and their wavelength is noticeably at 650 nm because hydrogen which is major component of most stars absorb light at 656.3 nm and therefore at this wavelength the plot refers this point to hydrogen alpha line. 
